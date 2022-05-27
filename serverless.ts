@@ -32,7 +32,7 @@ const serverlessConfiguration: AWS = {
       platform: 'node',
       concurrency: 10,
     },
-  },
+  }
 };
 
 module.exports = serverlessConfiguration;

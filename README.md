@@ -1,3 +1,11 @@
+# TODO:
+
+1. Get Unit tests working
+    - Why import issue? `Cannot find module '@libs/api-gateway' from 'src/functions/hello/handler.ts'`
+2. Integration test some event-based thing
+    - Queue -> Lambda -> S3
+    - serverless-offline-plugin
+
 # Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
